@@ -1,0 +1,1 @@
+- Es el numero de acciones del día

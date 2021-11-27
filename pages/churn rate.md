@@ -1,0 +1,1 @@
+- Es la tasa de cancelacion o abandono de clientes. [[Churn rate de clientes qué es, cómo se calcula y cómo reducirlo]]

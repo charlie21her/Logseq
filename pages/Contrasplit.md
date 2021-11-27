@@ -1,0 +1,1 @@
+- Agrupar acciones para reducir el número de acciones en circulación. Normalmente es porque el precio es demasiado bajo y no es atractivo, disminuyes la volatilidad. No suele ser bueno el que hagan un contrasplit.

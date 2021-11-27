@@ -1,0 +1,3 @@
+- #IncomeStatement(PyG)
+- Beneficio Operativo
+- Operating Income = Gross income - [[operating expenses]]

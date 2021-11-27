@@ -1,0 +1,2 @@
+- #IncomeStatement(PyG)
+- Resultado neto de los Ingresos y Gastos Financieros

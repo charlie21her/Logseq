@@ -1,0 +1,2 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Dinero que nos deben los clientes

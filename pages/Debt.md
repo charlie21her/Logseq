@@ -1,0 +1,4 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Deuda
+- Lo que debe la empresa.
+- total current liabilities y total liabilities

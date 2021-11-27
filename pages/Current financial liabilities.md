@@ -1,0 +1,2 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Deuda a menos de 1 año.

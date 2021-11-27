@@ -1,0 +1,4 @@
+- Fondo de comercio = Precio pagado al adquirir una empresa - su [[Equitiy]]
+- Es la capacidad que tiene una empresa de generar beneficios gracias a sus [[activos intangibles]]
+- Este valor solo lo podremos obtener en balances de compañías que realizan adquisiciones de forma activa.
+- ![2021_08_12_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f68812c31994f9-6313-4fd2-adbd-7905dda88c532021_08_12_image.png?Expires=4782362449&Signature=SS7~Ur0cVFrPqC-qchuaU~fUk4a5Pv48B0tBjH8mYhEcZdk2xgoPlIxdIoa2sZnRqP9vHWb3Iy88aLUz7BgXBzsC4LM6vEqrBJA25h0qjzNNeCnlAUcZ0xes5ppFoCfHrPS2YzYNGBLtUKJYJAsNyJiekc-JuVXCLmp6obxrM9S80ti-T-K5BayciT0skpHVwDnhjiJTwnozeeeRKKBtMbiBl3FEgIL~lYUJlV9u3~xXOL3LAEWuj5rZr7VxMT7ynri0UfiO67FeJ~6dwsxp4~-TwR2U9mOekoYtreoQMD7RODRA9gLiHvz2pVfHSWxq5RSk79LWdOOySgcTymJhLw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)

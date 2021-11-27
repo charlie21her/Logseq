@@ -1,0 +1,2 @@
+- La disminución gradual de las medidas extraordinarias de política monetaria expansiva tomadas por los bancos centrales para hacer frente a la crisis.
+- La disminución gradual del diámetro, anchura y grosor de un objeto

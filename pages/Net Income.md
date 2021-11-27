@@ -1,0 +1,8 @@
+- Beneficio Neto.
+- Lo que gana la empresa despues de todos los gastos e impuestos
+- OJO No es el beneficio mas puro que nos puede dar una compañia ya que incluye partidas que no suponen salidas o entradas de caja como [[D&A]]
+- Con el Net Income podemos obtener [[EPS]] dividiendo el Net Income entre número de acciones en circulación.
+- No debemos fijarnos en el Net Income sino en los [[EPS]] que nos mostraran si hay sorpresas positivas o negativas
+- Net Income = [[EBIT]] - [[Interest Expense]] - [[Income Tax]]
+- El Net Income no es apropiado para comparar compañías, ya que depende del endeudamiento de la empresa así como de la tasa impositiva del país donde se encuentre la empresa.
+- Margen neto (margen sobre ventas) = [[Net Income]]/ [[Revenues]]

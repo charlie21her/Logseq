@@ -1,0 +1,3 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Caja
+- Dinero en caja o invertido

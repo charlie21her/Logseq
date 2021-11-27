@@ -1,0 +1,1 @@
+- include selling, general and administrative expense (SG&A), depreciation, and amortization, and other operating expenses. Operating income excludes taxes and interest expenses, which is why it's often referred to as EBIT. However, there are times when operating income can differ from EBIT.

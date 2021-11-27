@@ -1,0 +1,2 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Dinero en el banco: Plazos, bonos.. Todo a corto plazo (Marketable securities)

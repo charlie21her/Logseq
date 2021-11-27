@@ -1,0 +1,2 @@
+- #IncomeStatement(PyG) #ProfitsAndLoss
+- Ventas o ingresos brutos de la compañía

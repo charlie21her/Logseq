@@ -1,0 +1,8 @@
+- 8% de crecimiento sobre ventas
+- 13% [[ROIC]]
+- [[Ciclicidad]] moderada
+- ([[debt]] - [[cash]] )/ [[EBITDA]] de 2x
+- [[EV/EBITDA]] de 10x
+- [[EV/EBIT]] de 12x
+- [[EV/FCF]] de 16x
+- [[PER]] de 16x

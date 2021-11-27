@@ -1,0 +1,3 @@
+- Enterprise Value o Valor de empresa. Si incluye la posición financiera.
+- EV = [[Marketcap]] + [[debt]] - [[cash]]
+- ![2021_08_13_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f68812c7444b7d-1114-4ba3-a496-3d2a389b64212021_08_13_image.png?Expires=4782457010&Signature=gjSXyAKzJmdltcMgZhE4zVv0EcrTAq3jvqKLno8iJu3U8JVLcBNOk9X~rQqJw28lKI-fNqDkzHE~06z-lwG5dZbkkBy9C546qUgn1HCOlzGP0~SQbEIboxuEztbkYvOXosFkPkClN01zLAiVKFrVCq5bhjJWf2rBQWnnvvu246gJ4I8nccFbmKeIAPJSw80hc7hkBrH3OW~UHfGaN~d0RjIqFpv5TNsuqtSHMM7d8iIwjlDk7w6~QePdb3I6dnzJo1jBkScE~Zl0r5l1BvqvK0T1nXeX0l5woTmmHDgjldZz37lL4wUP2vOa62egjzXEy5ls2h2lzci0WN4tNReCcA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)

@@ -1,0 +1,2 @@
+- Gastos/ingresos financieros.
+- También: Interest expense/income, financial/finance expense/income

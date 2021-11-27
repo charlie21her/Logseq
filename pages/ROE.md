@@ -1,0 +1,7 @@
+- Return On Equity. Retorno sobre el patrimonio neto.
+- ROE = [[Net Income]] / [[EQUITY]]
+- Mide la relación entre el beneficio neto de una compañía y su Equity.
+- Se utiliza mucho para el análisis de empresas FINANCIERAS.
+- Nos indica la capacidad que tiene una empresa para generar rentabilidad para sus accionistas.
+- Es muy util para realizar comparativas de rentabilidad entre empresas, pero deben de ser del mismo sector ya que los rendimientos del capital varian considerablemente entre sectores.
+- Tiene una LIMITACIÓN importante a la hora de analizar la sostenibilidad de rentabilidad de una empresa, ya que no tiene en cuenta la DEUDA.

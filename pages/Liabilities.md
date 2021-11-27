@@ -1,0 +1,2 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Pasivo o Deudas [[debt]]

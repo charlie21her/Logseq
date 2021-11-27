@@ -1,0 +1,15 @@
+- #CashFlows(FlujosDeCaja)
+- Capital Expenditure o gasto en capital
+- Los Gastos de explotación que se amortizan en los años venideros.
+- Es la cantidad de caja que se destina a inversiones de inmovilizado.
+- Es lo que invierta la empresas en si misma para mantenerse en las mismas condiciones de funcionamiento año tras año.
+- Definiciones:
+	- Investment / addition / purchase of property
+	- Plant and equipment
+	- Addition to intangible assets
+	- Inversion en inmobilizado material e intangible
+	- Adquisicion de inmovilizado fijo e intangible
+	- Adquisicion de tangibles e intangibles.
+- Existen dos tipos:
+	- [[Capex de mantenimiento]] : es para mantener el negocio en las mismas condiciones.
+	- [[Capex de expansion]] : la empresa destina capital a invertir en nuevo inmovilizado. Momentos puntuales. Para expandir el negocio y generar futuros beneficios

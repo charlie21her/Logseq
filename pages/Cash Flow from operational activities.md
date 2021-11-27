@@ -1,0 +1,3 @@
+- #CashFlows(FlujosDeCaja)
+- Flujo de caja operativo: Es el dinero real que ha entrado a la empresa.
+	- Net allocations to amortization, depreciation and provisions : Depreciaciones y amortizaciones.

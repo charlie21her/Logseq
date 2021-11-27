@@ -1,0 +1,5 @@
+- #CashFlows(FlujosDeCaja)
+- Flujos de financiacion: Nos dice que ha hecho la empresa despues de las inversiones.
+	- Dividends paid to parent company shareholders : Paga dividendos a los accionistas.
+	- Increase in financial liabilities : Que emite Deuda
+	- Reimbursement of financial debts

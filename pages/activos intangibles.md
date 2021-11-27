@@ -1,0 +1,1 @@
+- El valor de marca, la cartera de clientes, su posicionamiento, el know-how, el valor de sus patentes.

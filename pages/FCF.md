@@ -1,0 +1,5 @@
+- #CashFlows(FlujosDeCaja)
+- Free Cash Flow = Cash Flow Operativo - [[CAPEX]]
+- Es el Net income, pero más afinado teniendo en cuenta la depreciación con respecto a lo que invierte. Tampoco tiene en cuenta la deuda.
+- Invertir desde cero = Free Cash Flow = [[EBITDA]] - [[Capex de mantenimiento]] - Intereses - Impuestos - [[Variación Working Capital]]
+- FCF Margen = FCF / [[Revenues]]

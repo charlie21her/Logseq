@@ -1,0 +1,13 @@
+- [[EV]] / [[EBITDA]]
+- Mas útil que comprar con PER bajo.
+- Incorpora la deuda que tiene la empresa mientra que el PER solo incluye el beneficio neto.
+- Es una medida comparable. Empresas similares.
+- El mercado cotiza a x9 o x10 veces EV/EBITDA
+- EL [[EV]] = [[marketcap]] + [[debt]] - [[Cash]]
+- [[EBITDA]] es el beneficio antes de intereses, impuestos, depreciaciones y amortizaciones.
+  collapsed:: true
+	- Hay mucha diferencia entre empresas mas o menos intensivas en capital. Un supermercado apenas tendra DA mientras que una constructora tendra mucho
+	- Industria de extracción de materias primas cotizará a 6x EBITDA, los supermercados a x9, Inditex x15, bienes de consumo con Procter & Gamble o Unilever a x12 veces EBITDA
+- Exite el EV/EBIT o el EV/EBITDAR (La R es de rent, Alquileres) En este EV los alquileres se meten multiplicados x7 aparte del MKT y la deuda.
+- ![2021_08_13_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f68812b0d2b95f-c79f-4d56-8b65-01985f92c3d12021_08_13_image.png?Expires=4782452455&Signature=c3aySFIOaR1W9fRYP61RzjAzvGSaunW00XBlCV8gQwqkG5P40ekw~TzL5gt3zNnUrKVGV9Bd8KSQYayoEqW-wMfqvJpTutetRX6IXxNWnDVrXPB6DAsBP3CQit5F0Bk~LJZyokLyM0PCDrzV5dj0bWwxjdXH44fYjwMq3EOUriY~6rgr52~-Q1s-VLWBbs3fcpSBh7TE9kOVLTPeDv4GZLFL82XviHi3u7eUTto7lCt6xBaVkpSFD5TCzW-FAm5T88JdTdJKwsI6bP5vr~4NVmcw-ZHNqL7QRBqsTZTzbfwH2O2NRRtYy3~XMDXnIf9MltH0AJAePVEI~f~TBO3ySQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+- ![2021_08_13_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f68812adeda335-7613-421e-a574-30855a31e7812021_08_13_image.png?Expires=4782452472&Signature=KGOvWCuJwcN5SsVSujLIbzuFxnKV2i9WinicX3QENPGH8okIuESjodTyQ42NQRBwjtO~H6Ld19x3pXqJWwoLj1FDFkkWBhnrxhmKwIIWz5cTIoyNFNiw~TePLaz-5uxSfvPIljww6OAS-0ngZ0QhXDPbk~23a~pNawNzy7j59ywuxE6fXpK-7k79TeTWbawvzO5pgQR3uqYopOGp0fAb49liPXFtYuJkCG2rH4SJyumipl9S3XMjultxDb-7-l00Dz5-mewTEtk2W2oOxpOhrz4q7fDxsHQtPE2OdWhA6fBmRvmpRpdgbjIB6g6lDnhqhjQwpq8ZULCn7oTIAb5iQg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)

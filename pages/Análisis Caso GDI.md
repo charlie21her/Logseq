@@ -1,0 +1,15 @@
+- Esta empresa se dedica a los Facility Services: Limpieza, mantenimiento eléctrico, del aire acondicionado, seguridad, jardinería.
+- No es un sector cíclico
+- La empresa está creciendo al 20%, y sigue siendo pequeña, con pequeña cuota del mercado.
+- El sector está creciendo al doble del PIB en torno a un 6% anual.
+- Insiders alineados [[Alineación del Equipo Directivo de GDI-Canada]]
+	- El CEO lleva 15 años.
+	- Tiene un 10 o 15% de acciones.
+- Tiene poco riesgo esta inversión.
+- Poco endeudamiento.
+- El mercado potencial es gigantesco.
+- En USA hay unas 800.000 compañías del sector y ninguna llega el 5% de cuota de mercado.
+- Es un negocio poco intensivo en capital. Genera gran ((60c6261a-29d4-444f-9546-ad124cb63adb)). Y lo utilizan para comprar o sus competidores.
+- EBITDA ((60c6261a-ffd3-456b-919c-d78c495eba37)) con tasas por encima del 20%.
+- Tiene un [[churn rate]] de solo el 4% o una tasa de retención de clientes del 96%.
+-

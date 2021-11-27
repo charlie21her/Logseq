@@ -1,0 +1,2 @@
+- Dividir las acciones. Con ratio 2:1 o 3:1, 4:1, etc. Se hace para que las acciones, cuando adquieren una cotización muy alta, se hagan más manejables.
+- Normalmente sube el valor de las acciones. No se sabe muy bien por qué. Quizá porque sea más accesible. Esto demuestra que ahora estamos en pico de ciclo.

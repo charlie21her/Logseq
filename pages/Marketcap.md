@@ -1,0 +1,4 @@
+- Valor de mercado. Es el valor o precio que el mercado atribuye a una compañía.
+- No incluye la posición financiera del negocio. Es decir, no incluye ni la deuda ni la posible caja que pueda tener la empresa.
+- MarketCap = [[Weighted-average diluted shares]] x [[share price]]
+- ![2021_08_13_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f6881209ad5bed-53e2-4a5e-b4f7-d9e44e6a13f62021_08_13_image.png?Expires=4782456090&Signature=BrDzx2kF5gpVTanh96pRwm8Qat6ZPTI1XBudGz6rKKa9k89r~ghFyqcqafTEAMJm33TcB79jrGyySFz21YLHgE3TrdjsoejgrSCrBmfpDPBKu-F450E45OYQ0r1~ddFc7Kv9szBDfWC-EpXhrwCZGQCTtU-TBDBTMkdVG6FkAFYMFRPITOWRnH4Rga1-9l2Q5cpY4awbgvHy9~HJtt5z4ORskV~rBuzDt1Yag6lc8LdFTAhPjqi~TjzMa~USuFA2BPG4jR2U6XtaLHXbS0BMmy9iBlHsDadZOStJhAukJSsp-1w~Wjz6vSlzCoRZXIqgktdsG9OwZOkqlySaAn24TQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)

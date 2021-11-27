@@ -1,0 +1,1 @@
+- Earning per Share : Beneficio Neto / Número de acciones

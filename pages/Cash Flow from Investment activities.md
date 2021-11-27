@@ -1,0 +1,5 @@
+- #CashFlows(FlujosDeCaja)
+- Es el cash flow de las inversiones.
+	- Acquisitions of intangible and tangible assets : Es el [[CAPEX]]
+- Nos dice cuanto crece organicamente la empresa o inorganicamente en adquirir otras compañias (Acquisitions)
+- Acquisitions of companies, net of the acquired cash : Nuevas compañias.

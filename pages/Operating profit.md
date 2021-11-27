@@ -1,0 +1,2 @@
+- #IncomeStatement(PyG)
+- EBIT o Beneficio Operativo

@@ -1,0 +1,3 @@
+- [[IncomeStatement(PyG)]]
+- [[BalanceSheet(BalanceDeSituacion)]]
+- [[CashFlows(FlujosDeCaja)]]

@@ -1,0 +1,1 @@
+- Empresas de transporte por carretera, marítimo, aéreo. Empresas de acero, de minería, de materiales, constructoras, financieras, bancos

@@ -1,0 +1,6 @@
+- Return on Invested Capital (Retorno sobre el capital invertido)
+- ROIC = [[EBIT]] x (1-[[TAX RATE]]/100)/ [[CAPITAL INVERTIDO]]
+- Nos dirá cuanto retorno es capaz de generar nuestra empresa en términos de beneficio antes de intereses e impuestos por cada Euro que invirtamos en el negocio.
+- El ROIC promedio de la bolsa es del 13%.
+- Hay que calcular el ROIC promedio de los principales competidores.
+- Ideal para medir la evolución y calidad de negocios NO FINANCIEROS respecto a años anteriores o para realizar comparativas entre empresas.

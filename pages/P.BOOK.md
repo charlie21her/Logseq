@@ -1,0 +1,1 @@
+- Empresas de transporte maritimo o los bancos cotizan x1 o x1,5 veces valor en libros.

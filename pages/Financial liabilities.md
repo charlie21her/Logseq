@@ -1,0 +1,3 @@
+- Para valorar un negocio solo cogemos las deudas financieras. Deudas por las que paga intereses.
+- Se puede llamar: Financial liabilities, bank debt, bonds, financial debt
+- Todo a mas de un año.

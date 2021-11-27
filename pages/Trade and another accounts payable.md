@@ -1,0 +1,2 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Es el dinero que debemos a nuestros proveedores y trabajadores

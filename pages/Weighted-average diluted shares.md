@@ -1,0 +1,2 @@
+- #IncomeStatement(PyG)
+- El número total de acciones de la empresa

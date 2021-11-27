@@ -1,0 +1,10 @@
+- #IncomeStatement(PyG)
+- Earnings Before Interest and Taxes
+- Operating profit/income, operating results, beneficio operativo, beneficio bruto de explotacion.
+- Es el beneficio antes de intereses e impuestos
+- EBIT = [[EBITDA]] - [[D&A]]
+- EBIT = Ingresos - Gastos de Explotacion - [[D&A]]
+- Margen EBIT = EBIT/ [[Revenues]]
+- El margen EBIT se utiliza si la empresa tiene mucha inversión en activos fijos porque si se utilizase margen EBITDA, al tener un mayor gasto de depreciación el EBITDA saldría más alto y el resultado estaría distorsionado.
+- Si es una empresa que hace muchas adquisiciones [[M&A]] en mas Amortizacion que Depreciacion.
+- No valido para Empresas Financieras

@@ -1,0 +1,2 @@
+- #CashFlows(FlujosDeCaja)
+- Cantidad de caja utilizada para mantener el negocio en las mismas condiciones.

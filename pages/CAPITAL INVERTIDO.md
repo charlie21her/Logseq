@@ -1,0 +1,1 @@
+- [[EQUITY]] (Patrimonio Neto) - [[cash]] Caja + [[debt]] Deuda - [[Goodwill]] (Fondo de Comercio)

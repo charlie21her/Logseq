@@ -1,0 +1,3 @@
+- #BalanceSheet(BalanceDeSituacion)
+- Equity, patrimonio neto
+- Valor en libros = Activo - Pasivo

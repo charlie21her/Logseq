@@ -1,0 +1,14 @@
+- #IncomeStatement(PyG)
+- Earnings Before Interest, Taxes, Depreciation and Amortization.
+- Beneficio antes de intereses, impuestos, depreciaciones y amortizaciones.
+- Resultado Bruto de Explotacion.
+- Evalúa la capacidad de una empresa para generar beneficios solamente con su actividad productiva.
+- Son los ingresos - gastos de explotacion (aprovisionamiento de materias, gastos de personal...)
+- EBITDA margin = (earnings before interest and tax + depreciation + amortization) / total revenue
+	- Cuanto mayor sea el margen menores serán sus gastos operativos con respecto a sus ingresos. Hay que compararlo con sus iguales en el sector.
+- Margen EBITDA = EBITDA/ [[Revenues]]
+- El margen EBITDA es ideal para comparar empresas con sus competidores porque no tiene en cuenta ni el tipo impositivo, ni la depreciación, ni las deudas de la empresa.
+- Ojo, hay empresas que meten las [[Stock Options]] en sus EBITDA ajustados.
+- No incluye ni el gasto en inversiones ni los asociados a las obligaciones financieras y tributarias. Tampoco tiene en cuenta la [[Variación Working Capital]]
+- Solo tiene en cuenta la rentabilidad del negocio en funcion de las ventas y los gastos de explotacion pero sin tener en cuenta el coste de los activos ni los costes de financiamiento de la empresa.
+- Es una métrica non-GAAP

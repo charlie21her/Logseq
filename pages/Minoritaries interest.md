@@ -1,0 +1,2 @@
+- Intereses minoritarios
+- Non controlling interest.

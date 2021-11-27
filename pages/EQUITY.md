@@ -1,0 +1,3 @@
+- Patrimonio Neto, Fondos propios o Valor en libros
+- Shareholders Equity. Shareholders investment
+- Es el valor que tiene la empresa considerando todos sus bienes y derechos - sus obligaciones y deudas. Es decir el ACTIVO - PASIVO.

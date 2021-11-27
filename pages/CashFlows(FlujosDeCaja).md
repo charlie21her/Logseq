@@ -1,0 +1,5 @@
+- En el podemos ver cuanto dinero gana la empresa y en que lo invierte: [[Pago de dividendos]], [[recompra de acciones]], [[adquisiciones]] o [[reducción de deuda]].
+	- [[FCF]] = cuanto dinero gana la empresa una vez pagados intereses, inversiones e impuestos. Con el FCF sabremos, de la forma más pura, lo que está ganando la empresa a final de año.
+	- [[FCF]] = [[EBITDA]] - [[Interest expense]] - [[Capex de mantenimiento]] - [[Income Tax]]
+	- [[CAPEX]]
+	- Margen FCF = [[FCF]] / [[Revenues]]

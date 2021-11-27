@@ -1,0 +1,7 @@
+- #IncomeStatement(PyG)
+- Impuestos sobre beneficios
+- Tambien: provision for income tax
+- Pago de Impuestos
+- USA 21%
+- Francia 32%
+- España 25%

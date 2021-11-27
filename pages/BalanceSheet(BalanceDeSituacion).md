@@ -1,0 +1,9 @@
+- Nos dice que posee, que debe y que capital tiene una empresa.
+	- [[EQUITY]]
+	- [[Cash]]
+	- [[Debt]]
+	- [[Goodwill]] Solo si realiza adquisiciones.
+- [[Debt]] - [[Cash]] = [[Caja Neta]]
+- [[CAPITAL INVERTIDO]]
+- [[ROIC]]
+- ![2021_09_17_image.png](https://cdn.logseq.com/%2F56d01070-0594-4012-abc9-4e9360f68812fec869a3-c8eb-45c8-b069-edef49c66cb12021_09_17_image.png?Expires=4785508340&Signature=itNbwEwenKGCAymHx~M9S3JE0GFQa4NFH2PJ5snbHaohO8vRvDd6Uo~5HauLKzEwaXTvmIycS7LlYgfwuWAQJAWF7Enj3lGnaPoNem99Gux4ZeErclRknveDm8WoMJ9SoUXKnT7utRACCkjchek5~TIUkR~SIgBNRYGv7dcFaX77ZKe0UQhpTG2QKUjC-SRwdCCK2n8ZJ27N~2EFfKZAoyWhg~9xc-W~PXhs9TNUA4FS-s8sLctC65YmCxBQUQ48h2lMMfQoaAAK3UBB~oHB5f0zD8KE6zZaXycS~CO4dJNXqPSrhmiktrHidjJnGnr9DhKRyhJ8EtGWf341WOxWTg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)

@@ -1,0 +1,9 @@
+- Perdidas y Ganancias. Profits and Loss. P&L
+- Explica cuanto está ganando una empresa y lo bien que lo está haciendo.
+	- [[EBITDA]]
+	- [[EBIT]]
+	- [[Net In come]]
+	- [[Depreciation & amortization]]
+	- [[Interest expense]]
+	- [[Income Tax]]
+	- [[Minoritaries interest]]

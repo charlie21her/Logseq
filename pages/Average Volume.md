@@ -1,0 +1,3 @@
+- El número medio de acciones de los últimos 30 días.
+- [[volumen]] es el número de acciones del día.
+- Los institucionales solo pueden comprar el 25% del volumen medio de los últimos 30 días, al día.

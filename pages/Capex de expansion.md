@@ -1,0 +1,2 @@
+- #CashFlows(FlujosDeCaja)
+- la empresa destina capital a invertir en nuevo inmovilizado. Momentos puntuales. Para expandir el negocio y generar futuros beneficios.
